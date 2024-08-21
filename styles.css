@@ -71,7 +71,7 @@ body {
 
 
 h1 {
-  font-size: 5rem;
+  font-size: 10dvh;
   color: #DBEDF3;
   font-family: serif;
   text-shadow: 3px 0 #12b1eb;
